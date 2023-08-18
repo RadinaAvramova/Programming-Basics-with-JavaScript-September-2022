@@ -1,4 +1,4 @@
-# Programming-Basics-with-JavaScript
+# Programming Basics with JavaScript
 
 За курса:
 
