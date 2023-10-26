@@ -1,22 +1,17 @@
 # Programming Basics with JavaScript
 
-За курса:
+The Programming Basics course provides the beginning programming skills required for all technology majors at Software University. This includes writing entry-level programming code (basic coding skills), working with an IDE, using variables and data, operators and expressions, working with the console (reading input and printing results), using conditional statements (if, if-else) and loops (for, while, do-while).
 
-Курсът "Programming Basics" ми даде начални умения по програмиране. Това включва писане на програмен код на начално ниво (basic coding skills), работа със среда за разработка (IDE), използване на променливи и данни, оператори и изрази, работа с конзолата (четене на входни данни и печатане на резултати), използване на условни конструкции (if, if-else) и цикли (for, while, do-while).
+Acquired skills :
 
-Умения, които ще придобиx:
+  - Working with the console (data input and output)
 
--Работа с конзолата (вход и изход на данни)
+  - Working with loops (for)
 
--Работа с цикли (for)
+  - Working with more complex logic checks
 
--Работа с по-сложни логически проверки
+  - Working with logical checks (if-else)
 
--Работа с логически проверки (if-else)
+  - Performing simple calculations
 
--Извършване на прости пресмятания
-
--Работа с по-сложни цикли (вложени for цикли и while)
-
-Преподаватели: Петър Пенев и Ивайло Димитров
-
+  - Working with more complex loops (nested for loops and while loops)
