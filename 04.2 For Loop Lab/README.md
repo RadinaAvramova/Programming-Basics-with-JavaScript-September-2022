@@ -1,9 +1,10 @@
 Summary: 
 
-Повторение  на блок код с for-цикъл
+Repetition of block code with for-loop
 
-Цикли със стъпка
-  - Цикли с увеличаваща стъпка
-  - Цикли с намаляваща стъпка
+Loops with step
 
-Вземане на символ по индекс от текст
+  - Loops with increasing step
+  - Loops with decreasing step
+    
+Taking a character by index from text
