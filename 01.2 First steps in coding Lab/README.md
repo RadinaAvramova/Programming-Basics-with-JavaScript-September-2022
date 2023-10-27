@@ -1,13 +1,13 @@
 Summary: 
 
-Компютърната програма е поредица от команди
+A computer program is a series of commands
 
-На JavaScript командите се пишат функции
+JavaScript commands are written to functions
 
-Печатаме с командата console.log(...)
+We print with the console.log(...) command
 
-Въвеждане на текст и числа
+Enter text and numbers
 
-Аритметичните операции с числа: +, -, *, /, (), %
+Arithmetic operations with numbers: +, -, *, /, (), %
 
-Отпечатане на текст по шаблон
+Printing text by pattern
