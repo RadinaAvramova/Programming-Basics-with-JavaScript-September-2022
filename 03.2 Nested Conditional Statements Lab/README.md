@@ -1,9 +1,9 @@
 Summary: 
 
-Условна конструкция - switch-else
+Conditional construction - switch-else
 
-Вложени условни конструкции
+Nested conditional statements
 
-Логически оператори - &&, ||, !
+Logical operators - &&, ||, !
 
-  Приоритет на условия - ()
+Condition precedence - ()
