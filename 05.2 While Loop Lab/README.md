@@ -1,7 +1,7 @@
 Summary: 
 
-Можем да повтаряме блок от код с while-цикъл
+We can repeat a block of code with a while-loop
 
-Можем да прекъсваме цикли с оператора break
+We can break loops with the break operator
 
-Можем да преминем към следваща итерация с оператора continue
+We can move to the next iteration with the continue operator
