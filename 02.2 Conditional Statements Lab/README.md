@@ -1,13 +1,13 @@
 Summary: 
 
-Оператори за сравнение
+Comparison operators
 
-Конструкции за проверка на условие - if и if-else
+Constructs for condition checking - if and if-else
 
-Закръгляне и форматиране
+Rounding and formatting
 
-Серии от проверки
+Series of checks
 
-Дебъгване 
+Debugging
 
-Живот на променливата
+Variable lifetime
