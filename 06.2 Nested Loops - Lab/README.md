@@ -1,7 +1,7 @@
 Summary: 
 
-Какво представляват вложените цикли
+What are nested cycles
 
-Конструкция на вложени цикли
+Construction of nested cycles
 
-Прекъсване на вложени цикли
+Breaking nested cycles
